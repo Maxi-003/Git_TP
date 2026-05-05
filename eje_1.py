@@ -1,1 +1,1 @@
-print("Hola Itec 2026")
+print("Hola GitHub, estoy estudiando desde el itec.")
